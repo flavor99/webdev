@@ -1,0 +1,58 @@
+<html>
+<head>
+<style>
+
+body {
+
+  background-color: purple;
+
+}
+
+
+
+h2 {
+
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 25px;
+
+}
+
+
+
+h1 {
+
+  text-align: center;
+
+}
+
+
+
+ 
+
+</style>
+</head>
+<body>
+
+
+
+<h2> IM FROM PARK TOWN:</h2>
+
+<div id="example1">
+
+  <p> MY NAME IS FAOVR D FAVOR.</p>
+
+</div>
+
+<h1> BA BA SCRIOBO BASKIDI BASKIDI BA </h1>
+
+<p> KEEP A TEC</p>
+
+<p class="date">Jan, 2002</p>
+
+<p class="main">  F A T  M  A  N  </p>
+
+<p><b>Note:</b> PARKTOWN IN NIGERIA.</p>
+
+</body>
+</html>
